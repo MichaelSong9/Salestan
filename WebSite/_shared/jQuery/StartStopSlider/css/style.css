@@ -1,0 +1,22 @@
+a img							{ border: none; }
+
+h2								{ font-family: Georgia, Serif; font-size: 24px; text-align: center; 
+								  font-weight: normal; }
+
+#page-wrap						{ background: white; width: 650px; margin: 0 auto; 
+								  padding: 10px 0; }
+
+#slider							{ background: white url(../images/slider-bg.jpg); height: 227px; overflow: hidden;
+								  position: relative; margin: 10px 0; }
+								  
+                                /* DEFAULT is for three panels in width, adjust as needed
+                                   This only matters if JS is OFF, otherwise JS sets this. */								  
+#mover							{ width: 650px; position: relative; }
+
+.slide							{ padding: 40px 30px; width: 650px; float: right; position: relative; }
+.slide h1						{ font-family: Tahoma, lvetica, Sans-Serif; font-size: 18px; direction:rtl; letter-spacing: -1px;
+								  color: #ac0000;  float:right; width:300px; position:absolute; top:20px; right:80px; }
+.slide p						{ font-family: Tahoma, lvetica, Sans-Serif; color: #999; font-size: 12px; line-height: 22px; width: 300px; float:right; direction:rtl; position:absolute; top:60px; right:80px; }
+.slide img						{ position: absolute; top: 20px; left:0px; float:left; }
+#slider-stopper					{ position: absolute; top: 1px; right: 20px; background: #ac0000; color: white;
+								  padding: 3px 8px; font-size: 10px; text-transform: uppercase; z-index: 500; }

@@ -1,0 +1,591 @@
+﻿	.auto-style1 {
+		text-align: center;
+	}
+	.DockTitle
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+        }
+	.Header
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    .DescriptionsText
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+        }
+    .FormLabel
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+        }
+    .FormData
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+        }
+    .OffersDescriptions
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+        }
+    .Return
+        {
+            color: #FFFFFF;
+            font-family: Tahoma;
+            font-size: 12px;
+        }
+    .GridViewHeader
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: bold;
+        }
+	.GridViewText
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: normal;
+        }
+    .FormValidation
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color:Red;
+        }
+    .L2RControls
+        {
+            direction:ltr;
+            text-align:left;
+            font-family: Tahoma;
+            font-size: 14px;
+}
+    .L2RControlsRequired
+        {
+            direction:ltr;
+            text-align:left;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-color: Red;
+            border-style:solid;
+            border-width: 1px;
+        }
+    .ControlsRequired
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+            border-color: Red;
+            border-style:solid;
+            border-width: 1px;
+        }
+        .TextBoxRequiredL2R
+        {
+            direction: ltr;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #ff6600;
+	        border-left: 4px solid #ff6600;
+	        height:20px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxRequiredR2L
+        {
+            direction: rtl;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #ff6600;
+	        border-left: 4px solid #ff6600;
+	        height:20px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxL2R
+        {
+            direction: ltr;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #006699;
+	        height:20px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxR2L
+        {
+            direction: rtl;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #006699;
+	        height:20px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxMultiRequiredL2R
+        {
+            direction: ltr;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #ff6600;
+	        border-left: 4px solid #ff6600;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxMultiRequiredR2L
+        {
+            direction: rtl;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #ff6600;
+	        border-left: 4px solid #ff6600;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxMultiL2R
+        {
+            direction: ltr;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #006699;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .TextBoxMultiR2L
+        {
+            direction: rtl;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #006699;
+	        height:20px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .DropDownRequiredR2L
+        {
+            direction: rtl;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #ff6600;
+	        border-left: 4px solid #ff6600;
+	        height:30px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+        .DropDownR2L
+        {
+            direction: rtl;
+            font-family: Tahoma;
+            font-size: 14px;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #006699;
+	        height:30px;
+	        padding:4px 8px;
+	        margin-bottom:0px;
+	        border-radius: 5px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+        }
+    .ErrorMessage
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: Red;
+            font-weight: bold;
+        }
+    .SuccessMessage
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: Green;
+            font-weight: bold;
+        }
+		A.NormalLink
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			color:#0000FF;
+			text-decoration: none;
+		}
+		A.NormalLink:visited
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			color:#0000FF;
+			text-decoration: none;
+		}
+		A.NormalLink:hover
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			color:#0099ff;
+			text-decoration: none;
+		}
+        A.SocialLogo
+		{
+			opacity: 1.00;
+		}
+		A.SocialLogo:hover
+		{
+			opacity: 0.5;
+		}
+		.BottomTitle
+		{
+			font-family: Tahoma;
+			font-size: 14px;
+			font-weight:normal;
+            text-align: center;
+            color: #999999;
+        }
+        .BottomText
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			font-weight:normal;
+			color:#8B8B8B;
+		}
+		A.BottomLink
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			font-weight:normal;
+			color:#FFFFFF;
+			text-decoration: none;
+		}
+		A.BottomLink:visited
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			font-weight:normal;
+			color:#FFFFFF;
+			text-decoration: none;
+		}
+		A.BottomLink:hover
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+			font-weight:normal;
+			color:#ccff99;
+			text-decoration: none;
+		}
+        .NewsBrief
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: normal;
+        }
+        .NewsTitle
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .NewsBody
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: normal;
+        }
+        .NewsDate
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: normal;
+            color: Gray;
+        }
+        A.NewsTitle
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.NewsTitle:visited
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.NewsTitle:hover
+        {
+            font-family: Tahoma;
+            font-size: 14px;
+            color: #0099ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.NewsMore
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0000FF;
+            text-decoration: none;
+        }
+        A.NewsMore:visited
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0000FF;
+            text-decoration: none;
+        }
+        A.NewsMore:hover
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0099ff;
+            text-decoration: none;
+        }
+        .smalltext
+		{
+			font-family: Tahoma;
+			font-size: 10px;
+			font-weight:bold;
+        }
+        .InlineText
+		{
+			font-family: Tahoma;
+			font-size: 12px;
+        }
+        .MessageDate
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: normal;
+            color: Gray;
+        }
+        .MessageBrief
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: normal;
+            color: Gray;
+        }
+        A.MessageSender
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.MessageSender:visited
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.MessageSender:hover
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0099ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.MessageNew
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.MessageNew:visited
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        A.MessageNew:hover
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            color: #0099ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .OfferTitle
+        {
+            font-family: Tahoma;
+            font-size: 15px;
+            font-weight: bold;
+            color: #ffffff;
+        }
+        A.fade
+		{
+			opacity: 1.00;
+		}
+		A.fade:hover
+		{
+			opacity: 0.7;
+		}
+    .OfferPriceTitle
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+        }
+    .OfferPriceData
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: bold;
+        }
+    .ShowHidePanel1
+        {
+	        webkit-border-top-right-radius:10px;
+	        webkit-border-top-left-radius:10px;
+            -moz-border-radius-topright:10px;
+            -moz-border-radius-topleft:10px;
+            border-radius:10px 10px 10px 10px;
+            -moz-border-bottom-colors: none;
+            -moz-border-image: none;
+            -moz-border-left-colors: none;
+            -moz-border-right-colors: none;
+            -moz-border-top-colors: none;
+            border-color: #cae1e6;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #ebf4ff;
+            clear: both;
+            margin: 0 0 15px 12px;
+            padding: 8px 10px 8px;
+            overflow: hidden;
+        }
+        .ShowHidePanelAttention
+        {
+	        webkit-border-top-right-radius:10px;
+	        webkit-border-top-left-radius:10px;
+            -moz-border-radius-topright:10px;
+            -moz-border-radius-topleft:10px;
+            border-radius:10px 10px 10px 10px;
+            -moz-border-bottom-colors: none;
+            -moz-border-image: none;
+            -moz-border-left-colors: none;
+            -moz-border-right-colors: none;
+            -moz-border-top-colors: none;
+            border-color: #ff9933;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #ffffcc;
+            clear: both;
+            margin: 0 0 15px 12px;
+            padding: 8px 10px 8px;
+            overflow: hidden;
+        }
+        .trHighlight
+        {
+            background-color: #FAFAFA;
+        }
+        .trNormal
+        {
+            background-color: #ebf4ff;
+        }
+            .ShowHideHeader
+        {
+            font-family: Tahoma;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .description
+        {
+            -webkit-border-top-right-radius: 10px;
+            -webkit-border-top-left-radius: 10px;
+            -moz-border-radius-topright: 10px;
+            -moz-border-radius-topleft: 10px;
+            -border-radius: 10px 10px 10px 10px;
+            -moz-border-bottom-colors: none;
+            -moz-border-image: none;
+            -moz-border-left-colors: none;
+            -moz-border-right-colors: none;
+            -moz-border-top-colors: none;
+            border-color: #cae1e6;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #ebf4ff;
+            clear: both;
+            margin: 0 0 15px 12px;
+            padding: 8px 10px 8px;
+            overflow: hidden;
+        }
+       .bottomBox
+        {
+            -webkit-border-top-right-radius: 10px;
+            -webkit-border-top-left-radius: 10px;
+            -moz-border-radius-topright: 10px;
+            -moz-border-radius-topleft: 10px;
+            -border-radius: 10px 10px 10px 10px;
+            -moz-border-bottom-colors: none;
+            -moz-border-image: none;
+            -moz-border-left-colors: none;
+            -moz-border-right-colors: none;
+            -moz-border-top-colors: none;
+            border-color: #01833d;
+            border-style: solid;
+            border-width: 1px;
+            background-color: #014e25;
+            clear: both;
+            margin: 0 0 15px 12px;
+            padding: 8px 10px 8px;
+            overflow: hidden;
+            height: 260px;
+        }
+        .highlightPrice{
+color:#c21017;
+font-weight: bold;
+font-size:16px;
+font-family: Tahoma;
+}

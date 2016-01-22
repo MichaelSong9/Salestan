@@ -1,0 +1,30 @@
+﻿<html>
+<body>
+<div dir="rtl">
+<img alt="Logo" height="80" src="http://www.salestan.ir/images/logomain.png" width="240"/>
+<span style="font-family: Tahoma;">
+	<br />
+	<br />
+	<strong>دعوت به عضویت</strong><br />
+	<br />
+	سلام!   دوستتان <%Title%> <%UserName%> شما را به عضویت در سایت دعوت کرده است!
+                <br />
+                <br />
+				با استفاده از لینک زیر شما به صفحه ثبت نام هدایت می شوید و از تسهیلات منحصر به 
+                    فرد برخوردار خواهید شد.
+<br />
+پیشاپیش از علاقه جنابعالی به عضویت در سایت تشکر می نماییم و استفاده از خدمات سایت 
+    توسط شما را افتخاری بزرگ برای خود می دانیم.
+                <br />
+				<br />
+				کد معرف شما: <%RegentId%><br />
+	<br />
+                <a href="http://www.salestan.ir" >http://www.salestan.ir</a>
+<a href="<%RegisterationUrl%>" ><%RegisterationUrl%>&Code=<%RegentId%></a> <br />
+	<br />
+امیدواریم استفاده از خدمات سایت مورد خرسندی شما واقع گردد.
+	
+</span>
+</div>
+</body>
+</html>

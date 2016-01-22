@@ -1,0 +1,19 @@
+﻿<html>
+<body>
+<div dir="rtl">
+<h1>
+<img alt="Logo" height="80" src="http://www.salestan.ir/images/logomain.png" width="240" />&nbsp;</h1>
+<span style="font-family: Tahoma;">
+	<strong>سلام!<br />
+تبریک می گوییم! عضویت شما در سایت Salestan با موفقیت انجام گردید!<br />
+	<br />
+</strong>امیدواریم امکانات و خدمات ایجاد شده در سایت مورد پسند شما قرار گیرند.<br />
+	<br />
+	به عنوان هدیه به شما 12000 تومان اعتبار هدیه اختصاص داده شد.<br />
+	<br />
+	<a href="http://www.salestan.ir" >http://www.salestan.ir</a>
+
+</span>
+</div>
+</body>
+</html>

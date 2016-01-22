@@ -1,0 +1,2 @@
+﻿<p><a href="<%RegisterationUrl%>">
+<img alt="" height="580" src="http://www.salestan.ir/images/email/PreRegister.png" style="border-width: 0px" width="554" /></a></p>
